@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"server","dependencies":{"@prisma/client":{"version":"4.5.0"},"fastify":{"version":"4.9.2"}}}
